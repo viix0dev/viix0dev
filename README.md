@@ -6,8 +6,7 @@
 <div align="center">
 
 # Hi, I'm Youssef 👋
-
-## FullStack Developer · Systems Architecture · Cloud & AIoT
+### FullStack Developer · Systems Architecture · Cloud & AIoT
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,python,mysql,supabase" />
@@ -18,15 +17,26 @@
 <p>
   I build practical applications, dev tools & cloud solutions.
   <br />
-  Recently focused on <b>Systems Scalability</b>, <b>Golang</b>, <b>UX/UI designing</b> and <b>Backend Dev</b>.
+  Recently focused on <b>Systems Scalability</b>, <b>Golang</b> and <b>UX/UI designing</b>.
 </p>
 
 </div>
 
 <div align="center">
-  <h2>Technologies I Master</h2>
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,blender,figma,ps" />
-  <p>Technologies i use with my projects, mostly <b>git & vscode<b></p>
+  <h2>Cybersecurity</h2>
+  <img src="https://skillicons.dev/icons?i=linux,python" />
+  <p>
+    Tools I use for <b>cybersecurity</b>, scripting, and security research.
+  </p>
+</div>
+
+
+
+
+<div align="center">
+  <h2>Tools & Technologies</h2>
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,blender,figma,ps,ae" />
+  <p> Tools I use across my projects primarily <b>Git</b>, <b>VS Code</b>, and <b>Visual Studio</b>. </p>
 </div>
 
 ---
