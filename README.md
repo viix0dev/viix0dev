@@ -22,20 +22,11 @@
 
 </div>
 
-<div align="center">
-  <h2>Cybersecurity</h2>
-  <img src="https://skillicons.dev/icons?i=linux,python" />
-  <p>
-    Tools I use for <b>cybersecurity</b>, scripting, and security research.
-  </p>
-</div>
-
-
-
 
 <div align="center">
   <h2>Tools & Technologies</h2>
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,blender,figma,ps,ae" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,blender,linux,github" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ae" />
   <p> Tools I use across my projects primarily <b>Git</b>, <b>VS Code</b>, and <b>Visual Studio</b>. </p>
 </div>
 
