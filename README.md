@@ -1,17 +1,12 @@
-<!--
-  hu-qi/hu-qi is a special repository: this README appears on the GitHub profile.
-  Design goal: fewer fragile external dependencies, more native GitHub interactivity.
--->
-
 <div align="center">
 
 # Hi, I'm Youssef 👋
 ### FullStack Developer · Systems Architecture · Cloud & AIoT
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,python,mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cs,golang,powershell" />
   <br>
-  <img src="https://skillicons.dev/icons?i=cs,net,golang,aws,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mysql,supabase,vercel,cloudflare" />
 </p>
 
 <p>
@@ -22,6 +17,11 @@
 
 </div>
 
+<div align="center">
+  <h2>Frameworks & Libraries</h2>
+  <!-- Frontend -> Backend -> Desktop -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,fastapi,net,electron" />
+</div>
 
 <div align="center">
   <h2>Tools & Technologies</h2>
